@@ -3,6 +3,7 @@
 # Data science fellowship 06/03/19 
 
 This is Anthony
+Change from terminal
 
 ### Data science calendar
 
