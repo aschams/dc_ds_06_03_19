@@ -3,4 +3,9 @@
 *.pytest_cache
 *.pyc
 *__pycache__
+<<<<<<< HEAD
 /data/
+=======
+
+.nbgrader.*
+>>>>>>> 66e1e7cb3748727234e927a4f7e9b2c3a8791da3
